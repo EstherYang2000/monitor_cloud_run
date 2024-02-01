@@ -1,0 +1,16 @@
+google-cloud-monitoring
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+apache-beam 
+google-cloud-monitoring
+google-cloud-storage 
+google-cloud-bigquery 
+google-cloud
+apache-beam[gcp]
+pandas
+vertexai
+google-cloud-logging
+pyyaml
+psycopg2-binary
+markdown2

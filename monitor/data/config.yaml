@@ -1,0 +1,4 @@
+GCP:
+  project_id : "tsmccareerhack2024-icsd-grp2"
+  service_name : "hedgedoc"
+  resource_type : "cloud_run_revision"
