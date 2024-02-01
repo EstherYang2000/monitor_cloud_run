@@ -29,7 +29,7 @@ def send_email(time,subject, body, to_email,cpu_s,cpu_m):
     smtp_port = 587
 
     # 发件人的 Gmail 地址和密码
-    sender_email = "zhenghan900513@gmail.com"
+    sender_email = "xxxxx@gmail.com"
     sender_password = "ovbe nfdn ufmh nugr"
 
     # 收件人的邮箱地址
@@ -96,8 +96,8 @@ def send_email(time,subject, body, to_email,cpu_s,cpu_m):
 # 示例用法
 subject = "Test Email"
 body = "This is a test email sent from Python."
-to_email = "zhenghan900513.mg12@nycu.edu.tw"
+to_email = "xxxxxxx"
 
 send_email(subject, body, to_email)"""
 
-send_email("20200127","alert", "This is a test email sent from Python.", "ester6126@gmail.com",True,True)
+send_email("20200127","alert", "This is a test email sent from Python.", "xxxxx@gmail.com",True,True)

@@ -50,10 +50,10 @@ def linebot(request):
 
                     #db_tables = ['container_cpu_utilization', 'container_memory_utilization', 'container_startup_latency','instance_count', 'request_count', 'request_latency','error_times']
                     #db_params = {
-                    #    "host": "35.209.117.120",
-                    #    "database": "postgres",
-                    #    "user": "postgres",
-                    #    "password": "password",
+                    #    "host": "xxx",
+                    #    "database": "xx",
+                    #    "user": "xx",
+                    #    "password": "xx",
                     #    "port": 80,
                     #    }
                     #conn = psycopg2.connect(**db_params)
